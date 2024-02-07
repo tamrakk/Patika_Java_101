@@ -29,7 +29,7 @@ public class main{
 
         a=(tutar>=20);
         sonuc=(a) ?  tutar : 20;
-        System.out.println("Üçret Tutarı:"+sonuc+" TL");
+        System.out.println("Ücret Tutarı:"+sonuc+" TL");
 
 
 
