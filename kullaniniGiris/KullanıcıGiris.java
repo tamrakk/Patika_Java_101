@@ -41,8 +41,6 @@ public class KullanıcıGiris {
 
             }else {
                  System.out.println("program kapaltıldı");
-
-
              }
 
             }
