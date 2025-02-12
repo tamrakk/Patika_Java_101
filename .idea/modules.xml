@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bir_sayinin_basamak_sayilarnini/Bir_sayinin_basamak_sayilarnini.iml" filepath="$PROJECT_DIR$/Bir_sayinin_basamak_sayilarnini/Bir_sayinin_basamak_sayilarnini.iml" />
       <module fileurl="file://$PROJECT_DIR$/Burc_Bulan_Program/Burc_Bulan_Program.iml" filepath="$PROJECT_DIR$/Burc_Bulan_Program/Burc_Bulan_Program.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cin_Zodyagi_Hesaplama/Cin_Zodyagi_Hesaplama.iml" filepath="$PROJECT_DIR$/Cin_Zodyagi_Hesaplama/Cin_Zodyagi_Hesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Faktoriyel_hesaplama/Faktoriyel_hesaplama.iml" filepath="$PROJECT_DIR$/Faktoriyel_hesaplama/Faktoriyel_hesaplama.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Sinif_GecmeDurumu/Sinif_GecmeDurumu.iml" filepath="$PROJECT_DIR$/Sinif_GecmeDurumu/Sinif_GecmeDurumu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tek_Sayi/Tek_Sayi.iml" filepath="$PROJECT_DIR$/Tek_Sayi/Tek_Sayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ucak_Bilet_Fiyati_Hesaplayan_Program/Ucak_Bilet_Fiyati_Hesaplayan_Program.iml" filepath="$PROJECT_DIR$/Ucak_Bilet_Fiyati_Hesaplayan_Program/Ucak_Bilet_Fiyati_Hesaplayan_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uslu_sayilari_hesaplama/Uslu_sayilari_hesaplama.iml" filepath="$PROJECT_DIR$/Uslu_sayilari_hesaplama/Uslu_sayilari_hesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/java101.iml" filepath="$PROJECT_DIR$/java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/kombinasyon_hesaplayan_program/kombinasyon_hesaplayan_program.iml" filepath="$PROJECT_DIR$/kombinasyon_hesaplayan_program/kombinasyon_hesaplayan_program.iml" />
       <module fileurl="file://$PROJECT_DIR$/Artik_Yil_Hesaplama/untitled.iml" filepath="$PROJECT_DIR$/Artik_Yil_Hesaplama/untitled.iml" />
